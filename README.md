@@ -12,20 +12,14 @@ With rising concerns around student well-being and mental health, we sought to u
 
 ## Key Deliverables
 
-- `ProjectProposal_groupXXX.ipynb`: Outlines our research question, hypotheses, and proposed methodology.
-- `DataCheckpoint_groupXXX.ipynb`: Describes the dataset structure, cleaning process, and initial feature engineering.
-- `EDACheckpoint_groupXXX.ipynb`: Contains exploratory data analysis, visualizations, and early findings.
-- `FinalProject_groupXXX.ipynb`: Presents full statistical analysis (regression modeling, A/B testing), final results, and key takeaways.
-
-## Tools & Methods
-
-- **Python** (pandas, NumPy, matplotlib, seaborn, scikit-learn)
-- **Survey Data** collected via Google Forms
-- **Statistical Techniques**: Linear regression, correlation analysis, and hypothesis testing
+- `ProjectProposal_Group116-FA24.ipynb`: Outlines our research question, hypotheses, and proposed methodology.
+- `DataCheckpoint_Group116-FA24.ipynb`: Describes the dataset structure, cleaning process, and initial feature engineering.
+- `EDACheckpoint_Group116-FA24.ipynb`: Contains exploratory data analysis, visualizations, and early findings.
+- `FinalProject_Group116-FA24.ipynb`: Presents full statistical analysis (regression modeling, A/B testing), final results, and key takeaways.
 
 ## Contributors
 
-- Keshav Gupta, Benjamin Zhang, Nura Najed, Ilia Alba
+- Keshav Gupta, Benji Zhang-Li, Nura Nejad, Ilia Aballa
 - UC San Diego – Spring 2025, COGS108: Data Science in Practice
 
 ## License
