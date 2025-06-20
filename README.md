@@ -1,20 +1,35 @@
-This is your group repo for your final project for COGS108.
+# Sleep Consistency and Lifestyle Factors Among College Students
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+This project was developed as part of the final coursework for COGS108: Data Science in Practice at UC San Diego.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+## Overview
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+Our project investigates the relationship between sleep consistency and various lifestyle factors among U.S. college students. Using survey data collected from UC San Diego students, we aimed to identify which quantifiable behaviors—such as screen time, exercise frequency, caffeine intake, and stress levels—are most strongly associated with maintaining a consistent sleep schedule.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+## Motivation
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
+With rising concerns around student well-being and mental health, we sought to understand how everyday habits influence sleep stability—a key factor in cognitive performance, focus, and long-term health. Our project bridges behavioral science and data science to uncover insights that may inform healthier routines among students.
 
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
+## Key Deliverables
 
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
+- `ProjectProposal_groupXXX.ipynb`: Outlines our research question, hypotheses, and proposed methodology.
+- `DataCheckpoint_groupXXX.ipynb`: Describes the dataset structure, cleaning process, and initial feature engineering.
+- `EDACheckpoint_groupXXX.ipynb`: Contains exploratory data analysis, visualizations, and early findings.
+- `FinalProject_groupXXX.ipynb`: Presents full statistical analysis (regression modeling, A/B testing), final results, and key takeaways.
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+## Tools & Methods
+
+- **Python** (pandas, NumPy, matplotlib, seaborn, scikit-learn)
+- **Survey Data** collected via Google Forms
+- **Statistical Techniques**: Linear regression, correlation analysis, and hypothesis testing
+
+## Contributors
+
+- Keshav Gupta, Benjamin Zhang, Nura Najed, Ilia Alba
+- UC San Diego – Spring 2025, COGS108: Data Science in Practice
+
+## License
+
+This project is shared for educational and portfolio purposes. Feel free to fork and adapt for personal use with credit.
+
+---
